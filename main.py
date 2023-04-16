@@ -1,7 +1,7 @@
 import random
 import os
 
-from palavrasEDicas import *
+from palavras import *
 
 numeroSecreto = random.randint(0, 9)
 PalavraSecreta = palavras[numeroSecreto]
